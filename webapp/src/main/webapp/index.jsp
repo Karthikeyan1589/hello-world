@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2> Karthik DevvOps Project </h1>	
+   <h2> Karthikeyan DevOps Project </h1>	
   
 </form>
