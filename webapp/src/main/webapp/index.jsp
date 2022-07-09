@@ -33,5 +33,5 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h2> Karthikeyan DevOps Project </h1>	
-   <h3> 09JUL2022 10:30 </h3>
+   <h3> New timing 09JUL2022 1:30 </h3>
 </form>
